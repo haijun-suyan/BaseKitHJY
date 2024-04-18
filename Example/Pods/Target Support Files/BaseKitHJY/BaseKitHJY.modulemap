@@ -1,0 +1,6 @@
+framework module BaseKitHJY {
+  umbrella header "BaseKitHJY-umbrella.h"
+
+  export *
+  module * { export * }
+}

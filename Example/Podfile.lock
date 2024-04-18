@@ -1,0 +1,16 @@
+PODS:
+  - BaseKitHJY (0.1.0)
+
+DEPENDENCIES:
+  - BaseKitHJY (from `../`)
+
+EXTERNAL SOURCES:
+  BaseKitHJY:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BaseKitHJY: 7254b9e7494dcd68b515fe8eddf41d9ebf44a7f7
+
+PODFILE CHECKSUM: 75ce716dd5f7347bccffd6b41a89ac149599ebc2
+
+COCOAPODS: 1.11.2
