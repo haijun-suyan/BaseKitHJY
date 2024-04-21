@@ -26,14 +26,4 @@
     id object = [myClass new];
     return object;
 }
-
-
-
--(instancetype)sharedMethod:(NSString *)classStr {
-
-
-
-    
-}
-
 @end
