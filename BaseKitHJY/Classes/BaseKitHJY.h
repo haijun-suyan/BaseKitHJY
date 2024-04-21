@@ -9,6 +9,7 @@
 #define BaseKitHJY_h
 //实现供业务项目层的间接(具体)访问
 #import "UnitProtocol.h"
+#import "UnitStructure.h"
 
 #import "UnitObject.h"
 #endif /* BaseKitHJY_h */
