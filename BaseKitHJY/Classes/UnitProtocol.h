@@ -13,8 +13,8 @@
 @protocol UnitProtocol <NSObject>
 
 @optional
-//电话协议事件
-- (void)phoneCall;
+//双向传输数据
+- (NSDictionary *)doSomethingWithData:(NSString *)data;
 
 @end
 
