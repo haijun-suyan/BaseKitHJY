@@ -7,8 +7,8 @@
 
 #import <Foundation/Foundation.h>
 @interface UnitObject : NSObject
+@property(nonatomic,copy)NSString *name;
 + (instancetype)shareInstance;
-
 //库实例
 //classStr (库)类的‘别名字符串’
 -(instancetype)getInstanceLibrary:(NSString *)classStr;
